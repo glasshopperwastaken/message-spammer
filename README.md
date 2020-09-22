@@ -1,4 +1,10 @@
 # message-spammer
+This python script should work on any application that has a chat input thing idk
+It works on ROBLOX, Discord, blah blah blah
+You get the idea
+
+please suggest any ideas you may have plz lpzlpzlpl lpz
+
 A simple script that spams letters from text in a given interval.
 
 This can be adjusted to fit your needs, if you'd like.
